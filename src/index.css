@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* * {
+  background: #000;
+} */
+
+.active hr {
+  @apply block;
+}
